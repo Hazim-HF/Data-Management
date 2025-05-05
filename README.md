@@ -40,3 +40,5 @@
 16010 - HBase <br>
 50070 - HDFS <br>
 8088 - YARN (Yet Another Resource Negotiator) <br>
+
+https://github.com/kontext-tech/winutils/blob/master/hadoop-3.4.0-win10-x64/bin/winutils.exe
