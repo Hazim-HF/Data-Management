@@ -119,3 +119,9 @@ cursor.execute("""
 cursor.execute("DROP TABLE project2.plane_data")
 
 hive_query("SELECT tailnum FROM project2.plane_data")
+
+# delay patterns
+# what times of day have the lowest average delays.
+
+query = """
+SHOW TABLES IN"""
